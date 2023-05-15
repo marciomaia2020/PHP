@@ -4,6 +4,8 @@
 
 <?php
 echo "meu primeiro script em PHP!";
+echo "PHP = Personal Home Page";
+
 ?>
 
 </body>
