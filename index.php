@@ -22,7 +22,6 @@ echo "meu primeiro script em PHP!";
 
     
 
-<scrript src="script.js" defer></scrript>
 </body>
 </html>
 
